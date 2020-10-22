@@ -9,6 +9,7 @@ public class Pr0Main {
 		// TODO Auto-generated method stub
 		//Prueba de GIT nuevaaa 
 		//NUEVA PRUEBA HOY 22/10/2020
+		//Otro nuevo comentario por hoy
 		System.out.println("Hola mundo");
 		//Llamada funcion escribeSaludo de la clase main
 		Pr0Main.escribeSaludo("Julio Dominguez");
