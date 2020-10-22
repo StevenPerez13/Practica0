@@ -7,7 +7,7 @@ public class Pr0Main {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//Prueba de GIT
+		//Prueba de GIT nuevaaa 
 		System.out.println("Hola mundo");
 		//Llamada funcion escribeSaludo de la clase main
 		Pr0Main.escribeSaludo("Julio Dominguez");
